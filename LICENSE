@@ -1,0 +1,15 @@
+Mixed License
+
+All the bdf fonts used in this project are licensed under the Creative Commons
+Attributions-ShareAlike International 4.0 license. You can find the license
+file in `licenses/CC-BY-SA-4.0` or online at
+`https://creativecommons.org/licenses/by-sa/4.0/`.
+
+The adafruit_hid, adafruit_display_text, adafruit_bitmap_font, adafruit_st7735r libraries are licensed under the
+MIT license under the name Scott Shawcroft for Adafruit Industries.
+You can find the license file in `licenses/MIT` or online (without
+the copyright notice) at `https://mitlicense.org/`.
+
+The python code is licensed under the MIT license under the name Tijs van Erp.
+You can find the license file in `licenses/MIT` or online (without
+the copyright notice) at `https://mitlicense.org/`.
