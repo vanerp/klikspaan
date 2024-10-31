@@ -7,6 +7,7 @@ from lib.adafruit_hid.keyboard import Keyboard
 from lib.adafruit_hid.keycode import Keycode
 from lib.adafruit_hid.mouse import Mouse
 
+
 def click(mouse):
     mouse.click(Mouse.LEFT_BUTTON)
 
